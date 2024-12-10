@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c42ca14-14ab-4261-89d8-ba456427aa83" name="Changes" comment="sistemazione sitemap" />
+    <list default="true" id="6c42ca14-14ab-4261-89d8-ba456427aa83" name="Changes" comment="rimozione sitemap">
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +82,7 @@
       <workItem from="1733614850562" duration="16000" />
       <workItem from="1733614899505" duration="78000" />
       <workItem from="1733614984124" duration="50000" />
-      <workItem from="1733834663552" duration="1757000" />
+      <workItem from="1733834663552" duration="2759000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunta sito sviluppatori">
       <option name="closed" value="true" />
@@ -153,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733836403301</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="rimozione sitemap">
+      <option name="closed" value="true" />
+      <created>1733837396559</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733837396559</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +177,7 @@
     <MESSAGE value="aggiunta sitemap per indicizzazione" />
     <MESSAGE value="aggiunta file robots" />
     <MESSAGE value="sistemazione sitemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="sistemazione sitemap" />
+    <MESSAGE value="rimozione sitemap" />
+    <option name="LAST_COMMIT_MESSAGE" value="rimozione sitemap" />
   </component>
 </project>
