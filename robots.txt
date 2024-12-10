@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://fabbrogorgonzola.netlify.app/sitemap.xml
