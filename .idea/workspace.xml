@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c42ca14-14ab-4261-89d8-ba456427aa83" name="Changes" comment="rimozione sitemap">
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c42ca14-14ab-4261-89d8-ba456427aa83" name="Changes" comment="add sitemap.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1733614850562" duration="16000" />
       <workItem from="1733614899505" duration="78000" />
       <workItem from="1733614984124" duration="50000" />
-      <workItem from="1733834663552" duration="2759000" />
+      <workItem from="1733834663552" duration="3641000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunta sito sviluppatori">
       <option name="closed" value="true" />
@@ -164,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733837396559</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add sitemap.xml">
+      <option name="closed" value="true" />
+      <created>1733837738718</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733837738718</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add sitemap.xml">
+      <option name="closed" value="true" />
+      <created>1733837827432</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733837827432</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +191,7 @@
     <MESSAGE value="aggiunta file robots" />
     <MESSAGE value="sistemazione sitemap" />
     <MESSAGE value="rimozione sitemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="rimozione sitemap" />
+    <MESSAGE value="add sitemap.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sitemap.xml" />
   </component>
 </project>
