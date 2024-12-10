@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c42ca14-14ab-4261-89d8-ba456427aa83" name="Changes" comment="Aggiunta link per indicizzazione sito">
-      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+    <list default="true" id="6c42ca14-14ab-4261-89d8-ba456427aa83" name="Changes" comment="aggiunta sitemap per indicizzazione">
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +81,7 @@
       <workItem from="1733614850562" duration="16000" />
       <workItem from="1733614899505" duration="78000" />
       <workItem from="1733614984124" duration="50000" />
-      <workItem from="1733834663552" duration="433000" />
+      <workItem from="1733834663552" duration="1034000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunta sito sviluppatori">
       <option name="closed" value="true" />
@@ -112,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733834803791</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aggiunta sitemap per indicizzazione">
+      <option name="closed" value="true" />
+      <created>1733835109348</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733835109348</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aggiunta sitemap per indicizzazione">
+      <option name="closed" value="true" />
+      <created>1733835375141</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733835375141</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +141,7 @@
     <MESSAGE value="Aggiunta sito sviluppatori" />
     <MESSAGE value="sistemazione link pubblicità" />
     <MESSAGE value="Aggiunta link per indicizzazione sito" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta link per indicizzazione sito" />
+    <MESSAGE value="aggiunta sitemap per indicizzazione" />
+    <option name="LAST_COMMIT_MESSAGE" value="aggiunta sitemap per indicizzazione" />
   </component>
 </project>
