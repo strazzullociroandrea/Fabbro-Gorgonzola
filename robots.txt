@@ -1,4 +1,13 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://fabbrogorgonzola.netlify.app/sitemap.xml
+Allow: /index
+Allow: /contatti
+Allow: /servizi/aperturaCassaforte
+Allow: /servizi/cancellettiBlindati
+Allow: /servizi/porteBlindate
+Allow: /servizi/serrande
+Allow: /servizi/serrature
+Allow: /servizi/sfratti
+Allow: /servizi/sostituzioneDefender
+Allow: /servizi/tapparellista
+Allow: /sitemap.xml
