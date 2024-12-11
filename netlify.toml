@@ -3,3 +3,4 @@ package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
   buildDir = "public"
+  baseUrl = "https://fabbrogorgonzola.netlify.app"

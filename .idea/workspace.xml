@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c42ca14-14ab-4261-89d8-ba456427aa83" name="Changes" comment="aggiunta  sitemap">
-      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+    <list default="true" id="6c42ca14-14ab-4261-89d8-ba456427aa83" name="Changes" comment="prova con toml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,7 @@
       <workItem from="1733614899505" duration="78000" />
       <workItem from="1733614984124" duration="50000" />
       <workItem from="1733834663552" duration="5254000" />
-      <workItem from="1733903427546" duration="959000" />
+      <workItem from="1733903427546" duration="1545000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunta sito sviluppatori">
       <option name="closed" value="true" />
@@ -230,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733904040869</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="prova con toml">
+      <option name="closed" value="true" />
+      <created>1733904526255</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1733904526255</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +256,7 @@
     <MESSAGE value="ritento delete sitemap" />
     <MESSAGE value="aggiunta senza sitemap" />
     <MESSAGE value="aggiunta  sitemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="aggiunta  sitemap" />
+    <MESSAGE value="prova con toml" />
+    <option name="LAST_COMMIT_MESSAGE" value="prova con toml" />
   </component>
 </project>
