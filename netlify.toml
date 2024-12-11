@@ -5,5 +5,3 @@ package = "@netlify/plugin-sitemap"
 buildDir = ""
 baseUrl = "https://fabbrogorgonzola.netlify.app"
 
-[build]
-command = "npm run build && echo 'Sitemap generation completed'"
