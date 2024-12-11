@@ -4,4 +4,4 @@ package = "@netlify/plugin-sitemap"
 [plugins.inputs]
 buildDir = ""
 baseUrl = "https://fabbrogorgonzola.netlify.app"
-
+outputPath = "sitemap.xml" # Assicura che venga generata nella root
